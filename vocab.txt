@@ -1,0 +1,25 @@
+hello, hola
+train, el tren
+taxi, el taxi
+subway, el metro
+handbag, la cartera
+T-shirt, la camiseta
+to buy, comprar
+bank, el banco
+cash, el efectivo
+complaint, la queja
+credit card, la tarjeta de credito
+October, octubre
+November, noviembre
+December, diciembre
+Monday, lunes
+Wednesday, miercoles
+Tuesday, martes
+Friday, viernes
+Thursday, jueves
+Saturday, sabado
+Sunday, domingo
+weekend, fin de semana
+apple, manzana
+woman, mujer
+man, hombre
